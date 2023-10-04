@@ -5,16 +5,12 @@ export default function Home() {
     <div>
       <h1>Home Page</h1>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-        velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-        ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-        non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-        ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-        rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-        tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-        porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-        vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-        fames ac ante ipsum primis in faucibus.
+       Hello All! And Welcome to my REACT Portfolio!
+       A Little about myself: I have just started my coding career earlier this year. 
+       In this coding journey I have learned and practiced a lot of new subjects I never thought of experiencing.
+       It has been fun, but more than anything, challenging. I love challenges. Challenges keep me humble, focus, and motivated.
+       With that being said, I plan on growing as both a person and proffesional as I continue this coding journey.
+       Please Join Me in this coding Journey. Im sure it will be time worthy
       </p>
     </div>
   );
