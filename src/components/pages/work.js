@@ -14,9 +14,9 @@ export default function Work() {
                         <span class="image-title">Little Chef</span>
                         <img src="Images/Little Chef.PNG" alt="Project 2"/>
                     </a>
-                    <a href="" class="Temp row-2"> 
+                    <a href="https://github.com/foxeyb28/Project-3-TravelBug" class="Temp row-2"> 
                         <span class="image-title">Robotics</span>
-                        <img src="Images/Template-2.PNG" alt="Robot and Technology page"/>
+                        <img src="Images/TravelBug.PNG" alt="Robot and Technology page"/>
                     </a>
                     <a href="" class="Temp row-2">
                         <span class="image-title">Restaurant </span>
